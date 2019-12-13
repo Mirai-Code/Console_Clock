@@ -1,0 +1,11 @@
+C:\Users\Daria\source\repos\Console.Clock\bin\Debug\netcoreapp3.0\Console.Clock.exe
+C:\Users\Daria\source\repos\Console.Clock\bin\Debug\netcoreapp3.0\Console.Clock.deps.json
+C:\Users\Daria\source\repos\Console.Clock\bin\Debug\netcoreapp3.0\Console.Clock.runtimeconfig.json
+C:\Users\Daria\source\repos\Console.Clock\bin\Debug\netcoreapp3.0\Console.Clock.runtimeconfig.dev.json
+C:\Users\Daria\source\repos\Console.Clock\bin\Debug\netcoreapp3.0\Console.Clock.dll
+C:\Users\Daria\source\repos\Console.Clock\bin\Debug\netcoreapp3.0\Console.Clock.pdb
+C:\Users\Daria\source\repos\Console.Clock\obj\Debug\netcoreapp3.0\Console.Clock.csprojAssemblyReference.cache
+C:\Users\Daria\source\repos\Console.Clock\obj\Debug\netcoreapp3.0\Console.Clock.AssemblyInfoInputs.cache
+C:\Users\Daria\source\repos\Console.Clock\obj\Debug\netcoreapp3.0\Console.Clock.AssemblyInfo.cs
+C:\Users\Daria\source\repos\Console.Clock\obj\Debug\netcoreapp3.0\Console.Clock.dll
+C:\Users\Daria\source\repos\Console.Clock\obj\Debug\netcoreapp3.0\Console.Clock.pdb
